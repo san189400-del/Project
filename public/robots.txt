@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://roman-ancient-city.onrender.com/sitemap.xml
